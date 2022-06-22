@@ -8,3 +8,4 @@ docker build -t nginx-auto:alpine .
 ```
 
 xdzgsd f gsh dfgh dgg
+aaa
